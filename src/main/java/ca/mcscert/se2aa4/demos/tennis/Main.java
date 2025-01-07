@@ -30,5 +30,8 @@ public class Main {
         System.out.println("**** Starting game");
         System.out.println("** TODO...");
         System.out.println("** Closing Tennis Counter Assistant");
+
+        System.out.println("Commit I am adding");
+        System.out.println("Hello World");
     }
 }
